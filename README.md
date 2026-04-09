@@ -14,3 +14,5 @@ This repository contains the full ASIC design flow of the **Simon block cipher**
 - **Flow:** RTL → Synthesis → PnR → GDSII → Signoff
 
 ---
+
+<img width="460" height="460" alt="Our Chip&#39;s final Layout" src="https://github.com/user-attachments/assets/16fdf152-e44f-4552-bd88-32f036cde14a" />
